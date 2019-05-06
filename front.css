@@ -63,7 +63,7 @@ body {
   max-height: 98%;
   height: 80%;
   border-radius: 5px;
-  cursor: auto;
+/*   cursor: auto; */
   opacity: 1;
 }
 .floating-chat :focus {
@@ -206,7 +206,7 @@ body {
 .floating-chat .chat .footer .text-box {
   border-radius: 3px;
   background: rgba(25, 147, 147, 0.2);
-  min-height: 100%;
+/*   min-height: 100%; */
   width: 100%;
   margin-right: 5px;
   color: #0EC879;
