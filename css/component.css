@@ -169,33 +169,33 @@ Posters and still images
 **************************************/
 
 .scene:nth-child(1) .movie .poster {
-  background-image: url(../img/poster01.jpg);
+  background-image: url(../img/poster1.jpg);
 }
 
 .scene:nth-child(2) .poster {
-  background-image: url(../img/poster02.jpg);
+  background-image: url(../img/poster2.png);
 }
 
 .scene:nth-child(3) .poster {
-  background-image: url(../img/poster03.jpg);
+  background-image: url(../img/poster3.png);
 }
 .scene:nth-child(4) .poster {
-	background-image: url(../img/poster03.jpg);
+	background-image: url(../img/poster4.png);
 }
 
 .scene:nth-child(1) .info header {
-	background-image: url(../img/still01.jpg);
+	background-image: url(../img/still1.jpg);
 }
 
 .scene:nth-child(2) .info header {
-	background-image: url(../img/still02.jpg);
+	background-image: url(../img/still2.jpg);
 }
 
 .scene:nth-child(3) .info header {
-	background-image: url(../img/still03.jpg);
+	background-image: url(../img/still3.jpg);
 }
 .scene:nth-child(4) .info header {
-	background-image: url(../img/still03.jpg);
+	background-image: url(../img/still4.png);
 }
 
 /*************************************
