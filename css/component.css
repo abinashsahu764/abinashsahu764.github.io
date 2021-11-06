@@ -215,3 +215,17 @@ Media Queries
 		margin: 30px auto 60px;
 	}
 }
+
+/* Chat Button effect */
+
+.floating-chat {
+	animation: floating-chat 1s ease infinite;
+  }
+  @keyframes floating-chat {
+	30% { transform: scale(2); }
+	40%, 60% { transform: rotate(-20deg) scale(1.2); }
+	50% { transform: rotate(20deg) scale(1.2); }
+	70% { transform: rotate(0deg) scale(1.2); }
+	100% { transform: scale(1); }
+	
+  }
